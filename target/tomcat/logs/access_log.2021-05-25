@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:17 +0530] "GET / HTTP/1.1" 200 9483 http-bio-9966-exec-2 166
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:17 +0530] "GET /assets/3.png HTTP/1.1" 200 89151 http-bio-9966-exec-4 14
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:17 +0530] "GET /css/style.css HTTP/1.1" 200 12033 http-bio-9966-exec-3 27
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:17 +0530] "GET /assets/2.png HTTP/1.1" 200 122692 http-bio-9966-exec-1 24
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:18 +0530] "GET /js/index.js HTTP/1.1" 200 2740 http-bio-9966-exec-5 307
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:22 +0530] "GET /assets/1.png HTTP/1.1" 404 975 http-bio-9966-exec-9 5
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:24 +0530] "GET /supplier-management HTTP/1.1" 200 12519 http-bio-9966-exec-10 43
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:24 +0530] "GET /fontawesome-free/css/all.min.css HTTP/1.1" 200 58935 http-bio-9966-exec-10 43
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:24 +0530] "GET /fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 80328 http-bio-9966-exec-10 51
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:27 +0530] "GET /insert-supplier HTTP/1.1" 200 9993 http-bio-9966-exec-10 92
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:33 +0530] "GET /insert-supplier HTTP/1.1" 200 9993 http-bio-9966-exec-10 3
+0:0:0:0:0:0:0:1 - - [25/May/2021:23:11:52 +0530] "POST /insert-supplier HTTP/1.1" 200 11649 http-bio-9966-exec-10 1423
